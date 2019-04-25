@@ -42,3 +42,25 @@ body {
       margin-left: -15rem;
     }
   }
+  .avatar-image{
+    width: 100px;
+    height: 100px;
+  }
+  .nav-head{
+    background-color: #835FA9;
+  }
+  .nav-body{
+    background-color: #9987AC;
+  }
+  .nav-font{
+    color: white;
+  }
+  thead {
+    font-family: kanit;
+    background-color: #cccccc;
+    border-radius: 10px;
+    font-size:12px;
+  }
+  p, h1, h2, h3, h4, h5, a {
+    font-family: "Kanit";
+  }
